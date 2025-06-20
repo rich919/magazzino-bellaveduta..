@@ -1,0 +1,1 @@
+// Visual card for each material
